@@ -14,11 +14,6 @@ require("lazy").setup({
       import = "lazyvim.plugins",
       opts = {
         colorscheme = "solarized-osaka",
-        servers = {
-          dartls = {
-            cmd = { "dart", "language-server", "--protocol=lsp" },
-          },
-        },
       },
     },
     -- import any extras modules here
