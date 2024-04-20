@@ -5,4 +5,4 @@ Refer to the [documentation](https://lazyvim.github.io/installation) to get star
 
 # Note
 
-Just my personnal setup for nvim with flutter
+Just my personnal setup for nvim
